@@ -106,7 +106,7 @@ There are several directions for improvement and expansion:
    - Python 3.x
    - Libraries: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`
 
-2. **Run the Notebook**:
+2. **Run the `final_dataset` Notebook**:
    - Preprocess the data: Handle missing values, encode categorical features, and scale numerical ones.
    - Train the decision tree model: Use the `DecisionTreeClassifier` in `scikit-learn`.
    - Evaluate the model: Generate a classification report and visualize the decision tree.
